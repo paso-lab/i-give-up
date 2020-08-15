@@ -50,25 +50,21 @@ subtitle = "Current Studies"
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+Our primary focus is on underresearchstanding the mechanisms and integrative risk models that predict symptoms, explain associated features and help inform treatments across the anxiety and obsessive compulsive (OC) spectrums. The non-clinical features of these phenomena are part of the normal human experience; however, within the clinical end of the continuum they represent a significant public health burden and are associated with great personal and societal costs. We therefore see a clear need to further investigate the phenomenology, causes and maintenance factors of these disorders.
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+Research endeavors at the Program for Anxiety, Stress & OCD bridge various sub-disciplines of psychology within a translational research framework, including clinical psychology, molecular genetics, and social psychology. Both experimental and applied approaches are used, including examinations of biological factors such as genetics, experimental techniques, eye-tracking methodology, along with prevention and treatment outcome research.
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.app). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+Currently, Dr. Timpano is conducting research on a number of vulnerability factors for Obsessive Compulsive Disorder (OCD), compulsive hoarding, and other anxiety disorders. In particular she is interested in genetic factors within the BDNF and serotonin system, as well as cognitive vulnerabilities such as anxiety sensitivity and distress tolerance that may influence an individual's reaction to anxiety or OC symptoms. A related line of research examines the role of stress and/or trauma as causal agents and/or maintaining factors in OCD and hoarding. Finally, we are also investigating postpartum OCD, by exploring how knowledge about risk factors can help in the development of clinical prevention and treatment interventions.
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+Research is a vital step in learning more about the nature and causes of anxiety with the ultimate hope that this knowledge will reduce the suffering associated with these disorders. At any given time, we are working on a number of different research and treatment projects. Below are a few examples of on-going investigations:
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+**Family History of Hoarding Study**
+Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eligibility and will be compensated for their time if they qualify.
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+**Hoarding Self-Help Interventions**
+Do you have hoarding and would you like to do something about it? Participants will receive a free comprehensive evaluation and assessment prior to starting the group and after completing the program. This will be a 13-week long group that is moderated by a trained-facilitator. There will be no cost associated with the treatment.
 
-{{% /alert %}}
+**Symptom Variability**
+Anxiety disorders, such as OCD, are often marked by a waxing and waning course. Our group is currently investigating different factors that could contribute to this. This study is primarily open to UM undergraduate students.
+
+Does participating in our research studies sound interesting to you? [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html). 
