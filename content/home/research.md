@@ -1,8 +1,3 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -58,11 +53,11 @@ Currently, Dr. Timpano is conducting research on a number of vulnerability facto
 
 Research is a vital step in learning more about the nature and causes of anxiety with the ultimate hope that this knowledge will reduce the suffering associated with these disorders. At any given time, we are working on a number of different research and treatment projects. Below are a few examples of on-going investigations:
 
-**Family History of Hoarding Study**
+##**Family History of Hoarding Study**
 
 Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eligibility and will be compensated for their time if they qualify.
 
-**Hoarding Self-Help Interventions**
+##**Hoarding Self-Help Interventions**
 
 Do you have hoarding and would you like to do something about it? Participants will receive a free comprehensive evaluation and assessment prior to starting the group and after completing the program. This will be a 13-week long group that is moderated by a trained-facilitator. There will be no cost associated with the treatment.
 
