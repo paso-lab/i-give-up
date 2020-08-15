@@ -62,7 +62,7 @@ Do you have a family member who has hoarding? We are currently conducting an inv
 
 Do you have hoarding and would you like to do something about it? Participants will receive a free comprehensive evaluation and assessment prior to starting the group and after completing the program. This will be a 13-week long group that is moderated by a trained-facilitator. There will be no cost associated with the treatment.
 
-**Symptom Variability**
+## Symptom Variability
 
 Anxiety disorders, such as OCD, are often marked by a waxing and waning course. Our group is currently investigating different factors that could contribute to this. This study is primarily open to UM undergraduate students.
 
