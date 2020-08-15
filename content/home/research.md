@@ -4,7 +4,7 @@ active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
 title = "Research"
-subtitle = ""
+subtitle = "current studies"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
