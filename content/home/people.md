@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "People"
 subtitle = ""
 
 [content]
@@ -22,7 +22,7 @@ subtitle = ""
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.
