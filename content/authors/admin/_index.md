@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Director
+role: - Associate Professor
+- Director, Adult Division, Department of Psychology
 
 # Organizations/Affiliations
 # organizations:
@@ -66,8 +67,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- [Researchers]
-- Visitors
+- Director
+- [Graduate Students]
+- [Research Assistants]
 ---
 
 Dr. Kiara Timpano is the Director of the Program for Anxiety, Stress, and OCD (PASO), and an Associate Professor in the Department of Psychology at the University of Miami. Her research interests include understanding risk and vulnerability factors that play a role in the etiology, comorbidity, and maintenance of anxiety and obsessive-compulsive spectrum disorders, with a particular focus on hoarding disorder.
