@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Kiara Timpano
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Director
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+# - name: Stanford University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
 - Artificial Intelligence
@@ -66,10 +66,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- [Researchers]
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Kiara Timpano is the Director of the Program for Anxiety, Stress, and OCD (PASO), and an Associate Professor in the Department of Psychology at the University of Miami. Her research interests include understanding risk and vulnerability factors that play a role in the etiology, comorbidity, and maintenance of anxiety and obsessive-compulsive spectrum disorders, with a particular focus on hoarding disorder.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Timpano is an active participant in conferences and collaborative scholarship at the national and international level. She is the 2018 Program Chair for the Association of Behavioral and Cognitive Therapies (ABCT), and she has been on the Scientific and Clinical Advisory Board of the International Obsessive Compulsive Disorder Foundation (IOCDF) since 2016.
+
+At the “U,” Dr. Timpano oversees the PASO research team on a number of active research studies, including ongoing studies focused on hoarding, OCD, and social anxiety disorder, with a focus on cognitive, biological, and social risk factors for symptom development. The PASO team is also actively investigating transdiagnostic vulnerability factors for mood and anxiety disorders, including distress tolerance, anxiety sensitivity, and repetitive negative thinking.
+
+The PASO research team includes doctoral students in clinical psychology, postgraduate research assistants, and undergraduate research assistants. Dr. Timpano is planning to accept a graduate student for the 2018-2019 academic year. To learn more about Dr. Timpano and her research interests, click here.
