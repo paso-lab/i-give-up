@@ -5,7 +5,8 @@ name = "paso_theme"
 light = true
 
 # Primary
-primary = "#A9D640"
+# primary = "#A9D640"
+primary = "ForestGreen"
 
 # Menu
 menu_primary = "#A9D640"
