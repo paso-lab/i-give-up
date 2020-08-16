@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: - Associate Professor
-- Director, Adult Division, Department of Psychology
+role: Associate Professor & Director of Adult Division, Department of Psychology
 
 # Organizations/Affiliations
 # organizations:
