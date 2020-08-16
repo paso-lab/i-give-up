@@ -18,12 +18,12 @@ role: Research Assistant
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+# bio: ""
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:
