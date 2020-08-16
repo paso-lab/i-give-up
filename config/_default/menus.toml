@@ -6,12 +6,17 @@
 [[main]]
   name = "Home"
   url = "#about"
+  weight = 5
+  
+  [[main]]
+  name = "Home"
+  url = "#people"
   weight = 10
 
 [[main]]
   name = "Home"
   url = "#research"
-  weight = 10
+  weight = 15
 
 [[main]]
   name = "Posts"
