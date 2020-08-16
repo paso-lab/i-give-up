@@ -10,7 +10,7 @@
   
   [[main]]
   name = "Home"
-  url = "#people"
+  url = "#people.md"
   weight = 10
 
 [[main]]
