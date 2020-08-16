@@ -97,7 +97,7 @@ address = {street = "Flipse Building, 5665 Ponce de Leon Blvd", city = "Coral Ga
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+coordinates = {latitude = "25.712746", longitude = "-80.280473"}
 
 # Directions for visitors to locate you.
 directions = "Our studies are conducted at several different building on the Coral Gables campus. The intake coordinators will provide you with the specific location you should go to."
@@ -107,15 +107,15 @@ directions = "Our studies are conducted at several different building on the Cor
 office_hours = ["Monday-Friday 9am to 5pm"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://paso.psy.miami.edu/participate/index.html"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+# contact_links = [
+#   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+#  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+#  ]
 
 ############################
 ## Social
@@ -125,7 +125,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+# twitter = ""
 
 ############################
 ## Regional Settings
@@ -271,8 +271,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyAiQHXw73yWMNQ_zg_bpbAVGaSVVRJhpA4"
   zoom = 15
 
 ############################
