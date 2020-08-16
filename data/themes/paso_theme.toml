@@ -5,13 +5,12 @@ name = "paso_theme"
 light = false
 
 # Primary
-# primary = "#A9D640"
-primary = "ForestGreen"
+ primary = "#A9D640"
 
 # Menu
 menu_primary = "#A9D640"
 menu_text = "White"
-menu_text_active = "LightSalmon"
+menu_text_active = "OrangeRed"
 menu_title = "#2b2b2b"
 
 # Home sections
