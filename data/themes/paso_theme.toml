@@ -2,7 +2,7 @@
 name = "paso_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 # primary = "#A9D640"
