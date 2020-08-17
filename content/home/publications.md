@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+https://link.springer.com/article/10.1007/s10578-020-01017-1
+
+https://www.sciencedirect.com/science/article/abs/pii/S0005789419300747
+
+https://www.sciencedirect.com/science/article/abs/pii/S0005796720300607
+
+https://www.tandfonline.com/doi/abs/10.1080/10615806.2020.1722597
+
+https://link.springer.com/article/10.1007/s41811-019-00061-7
