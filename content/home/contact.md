@@ -22,6 +22,6 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-You may reach a PASO intake coordinator between 9am-5pm, Monday through Friday at (305) 284-5394 or by email at paso@psy.miami.edu. We also offer a simple and completely confidential online information form on the participate page [https://paso.psy.miami.edu/participate/index.html], where you can enter a request for us to contact you.
+You may reach a PASO intake coordinator between 9am-5pm, Monday through Friday at (305) 284-5394 or by email at paso@psy.miami.edu. We also offer a simple and completely confidential online information form on the [Participate page](https://paso.psy.miami.edu/participate/index.html), where you can enter a request for us to contact you.
 
 Our intake coordinators can provide general information about current studies and complete brief phone assessments. Calls and emails received after-hours or on weekends will not be returned until the next business day.
