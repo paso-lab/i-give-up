@@ -271,8 +271,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyAiQHXw73yWMNQ_zg_bpbAVGaSVVRJhpA4"
+  engine = 2
+ # api_key = "AIzaSyAiQHXw73yWMNQ_zg_bpbAVGaSVVRJhpA4"
   zoom = 15
 
 ############################
@@ -293,4 +293,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
