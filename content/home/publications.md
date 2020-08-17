@@ -67,6 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
+## Parent Distress Intolerance, Repetitive Negative Thinking, and Mental Health Service Use
+
 https://link.springer.com/article/10.1007/s10578-020-01017-1
 
 https://www.sciencedirect.com/science/article/abs/pii/S0005789419300747
