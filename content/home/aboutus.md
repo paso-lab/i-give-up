@@ -46,6 +46,9 @@ subtitle = ""
  css_class = ""
 +++
 
+## The PASO Lab
+#### **P**rogram for **A**nxiety, **S**tress, & **O**CD
+
 **PASO is a clinical research program committed to understanding the causes, consequences and associated features of anxiety, obsessive-compulsive, and hoarding disorders. We are involved in cutting-edge research on the biological, psychosocial, and cognitive risk factors for mood and anxiety disorders. In addition, we engage in research collaborations with other laboratories both at the University of Miami, across the country, and even across the world. We provide both group and individual cognitive-behavioral therapies for a variety of anxiety, obsessive-compulsive, and hoarding concerns.**
 
  We are currently seeking individuals who are experiencing distress and impairment as a result of these conditions, as well as psychologically healthy individuals, to participate in our research efforts. If you are interested in taking part in PASO’s ongoing research studies or to learn more about opportunities to get involved in research studies, please visit the PARTICIPATE page to provide us with your contact information, and a researcher will be in touch with you shortly. You may also feel free to reach out to PASO by phone or email—our information is available on the CONTACT US page.
