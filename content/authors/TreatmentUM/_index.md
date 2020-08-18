@@ -93,5 +93,5 @@ user_groups:
 * Call us if you would like to be on the waitlist for individual therapy.
 
 
-If you are looking for treatment for a child or adolescent, please contact the Child and Adolescent Mood and Anxiety Treatment (CAMAT) program in the Department of Psychology at the University of Miami.  You can reach them by calling 305-284-9852 ext 1, or visit their website at https://camat.psy.miami.edu. [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html).   [Contact us]{{< ref "/home/content/contact" >}}
+If you are looking for treatment for a child or adolescent, please contact the Child and Adolescent Mood and Anxiety Treatment (CAMAT) program in the Department of Psychology at the University of Miami.  You can reach them by calling 305-284-9852 ext 1, or visit their website at https://camat.psy.miami.edu. [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html).   [Contact us]{{< ref "/home/content/contact.md" >}}
 
