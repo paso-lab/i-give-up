@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Danielle Goldwert
+weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+# role: Research Assistant
 
 # Organizations/Affiliations
 # organizations:
