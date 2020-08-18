@@ -42,12 +42,12 @@ role: Research Assistant
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:dag214@miami.edu".
- - icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dgoldwert
+ - icon: envelope
+  icon_pack: fas
+  link: "mailto:dag214@miami.edu"
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/dgoldwert
 # - icon: squarespace
 #  icon_pack: fab
 #  link: https://daniellegoldwert.com
