@@ -9,7 +9,7 @@
 title = "Program for Anxiety, Stress, & OCD"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://https://paso-lab.netlify.app/`.
+# End your URL with a `/` trailing slash, e.g. `http://www.um-paso-lab.com/`.
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
