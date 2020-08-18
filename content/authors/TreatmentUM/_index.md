@@ -77,7 +77,7 @@ user_groups:
 
 **Self-Help Group** for persons with hoarding: 13 week group based on Buried in Treasures workbook to help you with sorting, discarding, and reducing acquiring
 
-* We are currently enrolling! [Call us](https://paso-lab.netlify.app/#contact) today to join the group.
+* We are currently enrolling! [Call us](http://www.um-paso-lab.com/#contact) today to join the group.
 * No cost to participate
 
 
