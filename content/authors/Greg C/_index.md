@@ -21,8 +21,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
  # bio: ""
 
-interests:
-- Towson State University
+# interests:
+# - Towson State University
 
 # education:
 #  courses:
