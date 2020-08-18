@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Greg Chasson
-weight: 1
+title: [Greg Chasson](https://www.iit.edu/directory/people/gregory-chasson/)
+weight: 2
 
 # Username (this should match the folder name)
 authors:
-- Greg G
+- Greg C
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,7 +16,7 @@ superuser: false
 # Organizations/Affiliations
 organizations:
  - name:  Towson State University
-   url: "https://www.iit.edu/directory/people/gregory-chasson/"
+ #  url: "https://www.iit.edu/directory/people/gregory-chasson/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
