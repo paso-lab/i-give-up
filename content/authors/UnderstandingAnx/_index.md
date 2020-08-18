@@ -77,7 +77,7 @@ user_groups:
 
 Some examples of common anxiety symptoms are: feelings of nervousness, muscle tension, worry, sleeplessness, poor concentration, irritability, feeling uncomfortable or queasy in a specific situation, and avoidance.  If these symptoms become excessive, begin to feel uncontrollable, and start to interfere in a person's life, they may manifest in the various disorders.  Please scroll down to find out more about anxiety disorders, or click the links to find out more about oc spectrum disorders and hoarding.
 
-If you think you may be experiencing any of these difficulties and would like to learn more, please [contact us](https://paso-lab.netlify.app/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html). 
+If you think you may be experiencing any of these difficulties and would like to learn more, please [contact us](https://um-paso.com/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html). 
 .
 
 Despite the degree of distress and disability associated with disorders in the anxiety and OC spectrum, effective psychological and pharmacological treatments have been identified.  With regard to psychological interventions, those within the cognitive behavioral framework have the most empirical support for reducing symptoms.
