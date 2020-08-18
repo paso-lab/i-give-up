@@ -19,7 +19,7 @@ organizations:
  #  url: "https://www.iit.edu/directory/people/gregory-chasson/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: ""https://www.iit.edu/directory/people/gregory-chasson/""
+ bio: ""https://www.iit.edu/directory/people/gregory-chasson/""
 
 # interests:
 # - Artificial Intelligence
