@@ -16,7 +16,7 @@ superuser: false
 # Organizations/Affiliations
 organizations:
  - name:  Florida State University
-   url: "https://psy.fsu.edu/~couglelab/cougle.htm/"
+   url: "https://psy.fsu.edu/~couglelab/cougle.htm"
 
 # Short bio (displayed in user profile at end of posts)
  # bio: ""
