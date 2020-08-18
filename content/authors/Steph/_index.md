@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Stephanie Hudibergh
+weight: 2
 
 # Username (this should match the folder name)
 authors:
