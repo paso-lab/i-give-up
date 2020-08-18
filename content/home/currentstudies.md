@@ -7,6 +7,11 @@ weight = 17  # Order that this section will appear.
 title = "Current Studies"
 subtitle = ""
 
+menu:
+  docs:
+    parent: 'Research'
+    weight: 20
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
