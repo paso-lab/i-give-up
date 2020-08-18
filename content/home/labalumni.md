@@ -56,9 +56,6 @@ subtitle = ""
 * Isabella Antonini
 * Jamie Port
 * Jonathan Wainblat
-
 * Katie Hurley
-
 * Lara Juan Martinuzzi
-
 * Swetha Davuluri
