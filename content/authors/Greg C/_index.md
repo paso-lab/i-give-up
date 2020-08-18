@@ -16,15 +16,13 @@ superuser: false
 # Organizations/Affiliations
 organizations:
  - name:  Towson State University
- #  url: "https://www.iit.edu/directory/people/gregory-chasson/"
+   url: "https://www.iit.edu/directory/people/gregory-chasson/"
 
 # Short bio (displayed in user profile at end of posts)
  # bio: "https://www.iit.edu/directory/people/gregory-chasson/"
 
  interests:
-- "https://www.iit.edu/directory/people/gregory-chasson/"
-# - Computational Linguistics
-# - Information Retrieval
+ Towson State University
 
 # education:
 #  courses:
