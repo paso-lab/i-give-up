@@ -76,7 +76,7 @@ user_groups:
 
 **Self-Help Group** for persons with hoarding: 13 week group based on Buried in Treasures workbook to help you with sorting, discarding, and reducing acquiring
 
-* We are currently enrolling! Call us today to join the group.
+* We are currently enrolling! [Call us](https://paso-lab.netlify.app/#contact) today to join the group.
 * No cost to participate
 
 
@@ -84,14 +84,13 @@ user_groups:
 
 * Fee of $100 to participate
 * Includes opportunities for home visit help sessions
-* Call us if you would like to be on the waitlist for the next class.
+* [Call us](https://paso-lab.netlify.app/#contact) if you would like to be on the waitlist for the next class.
 
 
 **PASO Individual Treatment** for hoarding, obsessive-compulsive disorder, or related disorders
 
 * Individualized one-on-one treatment provided on a sliding scale
-* Call us if you would like to be on the waitlist for individual therapy.
+* [Call us](https://paso-lab.netlify.app/#contact) if you would like to be on the waitlist for individual therapy.
 
 
-If you are looking for treatment for a child or adolescent, please contact the Child and Adolescent Mood and Anxiety Treatment (CAMAT) program in the Department of Psychology at the University of Miami.  You can reach them by calling 305-284-9852 ext 1, or visit their website at https://camat.psy.miami.edu. [Call us](https://paso.psy.miami.edu/resources-treatment/treatment-at-um/index.html).
-
+If you are looking for treatment for a child or adolescent, please contact the Child and Adolescent Mood and Anxiety Treatment (CAMAT) program in the Department of Psychology at the University of Miami.  You can reach them by calling 305-284-9852 ext 1, or visit their website at https://camat.psy.miami.edu. 
