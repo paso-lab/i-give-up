@@ -46,16 +46,19 @@ subtitle = ""
  css_class = ""
 +++
 
-Ashley Shaw- Massacusetts General Hospital
-Demet Cek - Sharp HealthCare San Diego
-Kim Arditte Hall - Boston VA
+* Ashley Shaw- Massacusetts General Hospital
+* Demet Cek - Sharp HealthCare San Diego
+* Kim Arditte Hall - Boston VA
 
 ## Undergraduate Research Assistants
-Claudia Ramirez
-Elizabeth Bocanegra
-Isabella Antonini
-Jamie Port
-Jonathan Wainblat
-Katie Hurley
-Lara Juan Martinuzzi
-Swetha Davuluri
+* Claudia Ramirez
+* Elizabeth Bocanegra
+* Isabella Antonini
+* Jamie Port
+* Jonathan Wainblat
+
+* Katie Hurley
+
+* Lara Juan Martinuzzi
+
+* Swetha Davuluri
