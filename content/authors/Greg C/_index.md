@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
  # bio: "https://www.iit.edu/directory/people/gregory-chasson/"
 
-# interests:
+ interests:
 - "https://www.iit.edu/directory/people/gregory-chasson/"
 # - Computational Linguistics
 # - Information Retrieval
