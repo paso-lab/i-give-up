@@ -22,7 +22,7 @@ organizations:
  # bio: "https://www.iit.edu/directory/people/gregory-chasson/"
 
  interests:
- Towson State University
+ - Towson State University
 
 # education:
 #  courses:
