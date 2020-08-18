@@ -1,6 +1,7 @@
 ---
 # Display name
-title: [Greg Chasson](https://www.iit.edu/directory/people/gregory-chasson/)
+title: Greg Chasson
+url: "https://www.iit.edu/directory/people/gregory-chasson/"
 weight: 2
 
 # Username (this should match the folder name)
