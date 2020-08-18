@@ -8,29 +8,29 @@
   url = "#aboutus"
   weight = 1
 
+ [[main]]
+  name = "People"
+  url = "#people"
+  weight = 5
+
 [[main]]
   name = "Research"
   url = "#research"
-  weight = 5
-  
-  [[main]]
-  name = "People"
-  url = "#people"
   weight = 10
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  
+ [[main]]
+  name = "Current Studies"
+  url = "#currentstudies"
+  weight = 15
 
 [[main]]
   name = "Publications"
   url = "#featured"
+  weight = 40
+  
+  [[main]]
+  name = "Resources and Treatment"
+  url = "#resources"
   weight = 40
 
 [[main]]
