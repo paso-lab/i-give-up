@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Greg Chasson
-url: "https://www.iit.edu/directory/people/gregory-chasson/"
 weight: 2
 
 # Username (this should match the folder name)
@@ -20,7 +19,7 @@ organizations:
  #  url: "https://www.iit.edu/directory/people/gregory-chasson/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: ""
+# bio: ""https://www.iit.edu/directory/people/gregory-chasson/""
 
 # interests:
 # - Artificial Intelligence
