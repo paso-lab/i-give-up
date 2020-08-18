@@ -84,7 +84,7 @@ Despite the degree of distress and disability associated with disorders in the a
 
 Below we have provided brief descriptions of each of the anxiety disorders. At any given time we may have an ongoing research study focused on trying to learn more about the nature of these conditions, or a treatment investigation aimed at reducing the suffering created by anxiety.
 
-Please [contact us](https://paso-lab.netlify.app/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
+Please [contact us](http://www.um-paso-lab.com/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
 
 ## Panic Disorder
 Panic disorder is where an individual is overwhelmed by panic attacks.  Panic attacks are characterized by intense fear or anxiety accompanied by physical symptoms such as shortness of breath, dizziness, chest pain or heart palpitations, or nausea.  Individuals with panic disorder may avoid one or several situations that are often associated with experiencing a panic attack.  Common situations include: driving, elevators, crowds, or bridges.

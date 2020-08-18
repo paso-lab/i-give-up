@@ -74,7 +74,7 @@ user_groups:
 
 #### Below we describe hoarding and its associated features. We have an active research program aimed at understanding the underlying causes of this condition. The ultimate hope is that we can use that knowledge to develop more effective treatments and preventions for hoarding.
 
-Please [contact us](https://paso-lab.netlify.app/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
+Please [contact us](http://www.um-paso-lab.com/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
 
 ## Hoarding
 Hoarding is defined as the acquisition of and failure to discard a large quantity of Hoardingobjects that results in extremely cluttered living spaces.  It is associated with significant distress or impairment.  Hoarding has been historically considered a subtype of OCD or a feature of Obsessive Compulsive Personality Disorder, though there is a push within the research community to consider it as a diagnosis in its own right for DSM-5.  Hoarding represents a complex syndrome and we are increasingly appreciating it as a profound public health burden.

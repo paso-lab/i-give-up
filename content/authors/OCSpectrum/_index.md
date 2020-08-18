@@ -75,7 +75,7 @@ user_groups:
 
 #### Below we have provided brief descriptions of each of the disorders that are classified within the Obsessive-Compulsive Spectrum. At any given time we may have an ongoing research study focused on trying to learn more about the nature of these conditions, or a treatment investigation aimed at reducing the distress and impairment linked to them.
 
-Please [contact us](https://paso-lab.netlify.app/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
+Please [contact us](http://www.um-paso-lab.com/#contact) or visit the [participate page](https://paso.psy.miami.edu/participate/index.html) if you are interested in learning more, have questions, or want to participate!
 
 ## Obsessive Compulsive Disorder
 OCD has been identified as one of the leading causes of disability world-wide by the World Health Organization.  It is characterized by intrusive thoughts (obsessions) and behavioral responses (compulsions) meant to alleviate anxiety.  Across cultures, the cardinal features of OCD are remarkably consistent and symptoms can be characterized by a multi-dimensional model that includes the following dimensions: contamination/washing, symmetry/ordering, aggressive, sexual, religious and somatic obsessions/checking, and hoarding.
