@@ -9,7 +9,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,7 +36,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["10px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,27 +47,15 @@ subtitle = ""
 +++
 
 Ashley Shaw- Massacusetts General Hospital
-
 Demet Cek - Sharp HealthCare San Diego
-
 Kim Arditte Hall - Boston VA
 
-
-
 ## Undergraduate Research Assistants
-
 Claudia Ramirez
-
 Elizabeth Bocanegra
-
 Isabella Antonini
-
 Jamie Port
-
 Jonathan Wainblat
-
 Katie Hurley
-
 Lara Juan Martinuzzi
-
 Swetha Davuluri
