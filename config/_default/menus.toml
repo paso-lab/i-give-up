@@ -18,10 +18,10 @@
   url = "#research"
   weight = 10
   
- [[main]]
-  name = "Current Studies"
-  url = "#currentstudies"
-  weight = 15
+# [[main]]
+#  name = "Current Studies"
+#  url = "#currentstudies"
+#  weight = 15
 
 [[main]]
   name = "Publications"
