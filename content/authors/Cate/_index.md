@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Caitlin Stamatis
+weight: 1
 
 # Username (this should match the folder name)
 authors:
