@@ -9,8 +9,7 @@ subtitle = ""
 
 menu:
   docs:
-    parent: 'Research'
-    weight: 20
+    parent: "Research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
