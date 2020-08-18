@@ -14,8 +14,8 @@ superuser: false
 # role: Research Assistant
 
 # Organizations/Affiliations
-# organizations:
- - name:  "University of North Carolina, Chapel Hill"
+organizations:
+ - name:  University of North Carolina, Chapel Hill
    url: "http://jonabram.web.unc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
