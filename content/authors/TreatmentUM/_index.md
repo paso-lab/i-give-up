@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Treatment at UM
+weight: 1
 
 # Username (this should match the folder name)
 authors:
