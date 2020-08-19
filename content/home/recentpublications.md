@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 
-title = "Research"
+title = "Recent Publications"
 subtitle = ""
 
 
@@ -52,7 +52,7 @@ subtitle = ""
 
 The following is a list of some of Dr. Timpano's recent publications, including several projects that were completed with the help of research participants at the University of Miami. Asterisk denotes student author. We also regularly update our Facebook page with updates on publications. Go to https://www.facebook.com/UMPASO/ to like our page and follow our updates.
 
-* Arditte, K. A., * Shaw, A. M., & Timpano, K. R. (in press). Repetitive negative thinking: A transdiagnostic correlate of affective disorders. _Journal of Social and Clinical Psychology._
+*Arditte, K. A., *Shaw, A. M., & Timpano, K. R. (in press). Repetitive negative thinking: A transdiagnostic correlate of affective disorders. _Journal of Social and Clinical Psychology_.
 
 * Shaw, A. M., & Timpano, K. R. (in press). An experimental investigation of the effect of stress on saving and acquiring behavioral tendencies: The role of distress tolerance and negative urgency. _Behavior Therapy_.
 
