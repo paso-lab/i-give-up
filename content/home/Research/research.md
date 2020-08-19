@@ -4,14 +4,16 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "Research"
-subtitle = ""
-
 image:
   placement: 1
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
   focal_point: "Center"
   preview_only: false
+
+
+title = "Research"
+subtitle = ""
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
