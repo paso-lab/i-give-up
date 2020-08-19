@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Examples of On-Going Investigations"
 subtitle = ""
 
 [content]
@@ -45,7 +45,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,6 +67,12 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
+   image = "background.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "right"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true 
+  
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -75,3 +81,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eli
