@@ -8,7 +8,7 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: backgroundimage.jpg
+header: 
   caption: ""
-  image: ""
+  image: "backgroundimage.jpg"
 ---
