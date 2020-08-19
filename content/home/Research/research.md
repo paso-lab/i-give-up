@@ -47,13 +47,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
- 
-   
- image:
-  placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  focal_point: "Center"
-  preview_only: false
+
 +++
 
 Our primary focus is on understanding the mechanisms and integrative risk models that predict symptoms, explain associated features and help inform treatments across the anxiety and obsessive compulsive (OC) spectrums. The non-clinical features of these phenomena are part of the normal human experience; however, within the clinical end of the continuum they represent a significant public health burden and are associated with great personal and societal costs. We therefore see a clear need to further investigate the phenomenology, causes and maintenance factors of these disorders.
