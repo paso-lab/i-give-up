@@ -7,6 +7,12 @@ weight = 16  # Order that this section will appear.
 title = "Research"
 subtitle = ""
 
+image:
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
