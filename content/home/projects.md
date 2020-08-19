@@ -84,5 +84,3 @@ subtitle = ""
 +++
 
 Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eli
-
-  image: "images/background.jpg"
