@@ -7,8 +7,6 @@ weight = 12  # Order that this section will appear.
 title = "Join the Lab"
 subtitle = ""
 
-{{< figure library="true" src="backgroundimage.jpg" title="A caption" >}}
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -48,6 +46,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="pasopeople.jpg" >}}
 
 ## Graduate Students in Clinical Psychology
 Training future clinical-scientists is one of the most important components of the work we do. Our research group is collaborative and operates within a "hands-on" training model. Graduate students are involved in all aspects of the research process from their very first day in the program. The UM Psychology Department offers a rich environment in which to grow as a clinical researcher, with excellent training in research and empirically validated treatments.
