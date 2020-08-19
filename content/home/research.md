@@ -46,8 +46,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< gallery >}}
-
 Our primary focus is on understanding the mechanisms and integrative risk models that predict symptoms, explain associated features and help inform treatments across the anxiety and obsessive compulsive (OC) spectrums. The non-clinical features of these phenomena are part of the normal human experience; however, within the clinical end of the continuum they represent a significant public health burden and are associated with great personal and societal costs. We therefore see a clear need to further investigate the phenomenology, causes and maintenance factors of these disorders.
 
 Research endeavors at the Program for Anxiety, Stress & OCD bridge various sub-disciplines of psychology within a translational research framework, including clinical psychology, molecular genetics, and social psychology. Both experimental and applied approaches are used, including examinations of biological factors such as genetics, experimental techniques, eye-tracking methodology, along with prevention and treatment outcome research.
