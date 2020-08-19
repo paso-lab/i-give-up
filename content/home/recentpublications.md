@@ -50,24 +50,24 @@ subtitle = ""
 
 +++
 
-Our primary focus is on understanding the mechanisms and integrative risk models that predict symptoms, explain associated features and help inform treatments across the anxiety and obsessive compulsive (OC) spectrums. The non-clinical features of these phenomena are part of the normal human experience; however, within the clinical end of the continuum they represent a significant public health burden and are associated with great personal and societal costs. We therefore see a clear need to further investigate the phenomenology, causes and maintenance factors of these disorders.
+The following is a list of some of Dr. Timpano's recent publications, including several projects that were completed with the help of research participants at the University of Miami. Asterisk denotes student author. We also regularly update our Facebook page with updates on publications. Go to https://www.facebook.com/UMPASO/ to like our page and follow our updates.
 
-Research endeavors at the Program for Anxiety, Stress & OCD bridge various sub-disciplines of psychology within a translational research framework, including clinical psychology, molecular genetics, and social psychology. Both experimental and applied approaches are used, including examinations of biological factors such as genetics, experimental techniques, eye-tracking methodology, along with prevention and treatment outcome research.
+* Arditte, K. A., * Shaw, A. M., & Timpano, K. R. (in press). Repetitive negative thinking: A transdiagnostic correlate of affective disorders. _Journal of Social and Clinical Psychology._
 
-Currently, Dr. Timpano is conducting research on a number of vulnerability factors for Obsessive Compulsive Disorder (OCD), compulsive hoarding, and other anxiety disorders. In particular she is interested in genetic factors within the BDNF and serotonin system, as well as cognitive vulnerabilities such as anxiety sensitivity and distress tolerance that may influence an individual's reaction to anxiety or OC symptoms. A related line of research examines the role of stress and/or trauma as causal agents and/or maintaining factors in OCD and hoarding. Finally, we are also investigating postpartum OCD, by exploring how knowledge about risk factors can help in the development of clinical prevention and treatment interventions.
+* Shaw, A. M., & Timpano, K. R. (in press). An experimental investigation of the effect of stress on saving and acquiring behavioral tendencies: The role of distress tolerance and negative urgency. _Behavior Therapy_.
 
-Research is a vital step in learning more about the nature and causes of anxiety with the ultimate hope that this knowledge will reduce the suffering associated with these disorders. At any given time, we are working on a number of different research and treatment projects. Below are a few examples of on-going investigations:
+* Arditte, K. A., * Cek, D., * Shaw, A. M.& Timpano, K. R. (in press). The importance of assessing clinical phenomena in Mechanical Turk research. _Psychological Assessment_.
 
-## Family History of Hoarding Study
+* Shaw, A. M., Timpano, K. R., Steketee, G. S., Tolin, D. F., & Frost, R. O. (2015). Hoarding and emotional reactivity: The link between negative emotional reactions and hoarding symptomatology. _Journal of Psychiatric Research_, 63, 84-90.
 
-Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eligibility and will be compensated for their time if they qualify.
+Timpano, K. R., * Shaw, A. M., Cougle, J. R., & Fitch, K. E. (2014). A multi-faceted assessment of emotional tolerance and intensity in hoarding. _Behavior Therapy, 45, 690-699_.
 
-## Hoarding Self-Help Interventions
+Timpano, K. R., & * Shaw, A. M. (2012). Conferring humanness: The role of anthropomorphism in hoarding. _Personality and Individual Differences_, 54(3), 383-388.
 
-Do you have hoarding and would you like to do something about it? Participants will receive a free comprehensive evaluation and assessment prior to starting the group and after completing the program. This will be a 13-week long group that is moderated by a trained-facilitator. There will be no cost associated with the treatment.
+Timpano, K.R., Broman-Fulks, J.J., Glaesmer, H., Exner, C., Rief, W., Olatunji, B.O., Keough, M.E., Riccardi, C.J., Brähler, E., Wilhelm, S. & Schmidt, N.B. (2013). A Taxometric Exploration of the Latent Structure of Hoarding. _Psychological Assessment_.
 
-## Symptom Variability
+Timpano, K.R., Abramowitz, J.S., Mahaffey, B.L., Mitchell, M.A., & Schmidt, N.B. (2011). Efficacy of a Prevention Program for Postpartum Obsessive-Compulsive Symptoms. _Journal of Psychiatric Research, 45, 1511-1517_.
 
-Anxiety disorders, such as OCD, are often marked by a waxing and waning course. Our group is currently investigating different factors that could contribute to this. This study is primarily open to UM undergraduate students.
+Timpano, K.R., Schmidt, N.B., Weaton, M.G., Wendland, J.R., & Murphy, D.L. (2011). Brain-derived neurotrophic factor (BDNF) Val66Met functional variant: Association with compulsive hoarding and body mass index. _Journal of Abnormal Psychology_, 120, 700-707.
 
-Does participating in our research studies sound interesting to you? [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html).
+Timpano, K.R., Exner, C., Glaesmer, H., Rief, W., Keshaviah, A., Braehler, E., & Wilhelm, S. (2011). The epidemiology of the proposed hoarding disorder: Exploration of the acquisition specifier, associated features, and distress. _Journal of Clinical Psychiatry_, 72 (6): 780-786.
