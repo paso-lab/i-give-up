@@ -67,7 +67,7 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-  image: "images/background.jpg"
+
   
  #  image = "background.jpg"  # Name of image in `static/media/`.
  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -84,3 +84,5 @@ subtitle = ""
 +++
 
 Do you have a family member who has hoarding? We are currently conducting an investigation looking at risk factors for hoarding that takes into consideration whether individuals have a family history of hoarding. Volunteers will receive a free comprehensive evaluation to determine eli
+
+  image: "images/background.jpg"
