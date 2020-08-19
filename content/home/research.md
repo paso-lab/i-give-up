@@ -7,6 +7,14 @@ weight = 16  # Order that this section will appear.
 title = "Research"
 subtitle = ""
 
+gallery_item:
+ - album: gallery
+   image: hoarding-avatar.jpg
+   caption: Family history of hoarding study, open to djlksaj dsfjlaksdjflasdj flasj dflas dfas djflkasj
+ - album: gallery
+   image: uhealthavatar.jpg
+   caption: we alsj dfljs lkdfj aslkdj fklsaj flkajs ldkfj aslkdfjklasjflkdsaj f;as
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -66,4 +74,4 @@ Do you have hoarding and would you like to do something about it? Participants w
 
 Anxiety disorders, such as OCD, are often marked by a waxing and waning course. Our group is currently investigating different factors that could contribute to this. This study is primarily open to UM undergraduate students.
 
-Does participating in our research studies sound interesting to you? [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html). 
+Does participating in our research studies sound interesting to you? [Click here to go to our Participate page](https://paso.psy.miami.edu/participate/index.html).
