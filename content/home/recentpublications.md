@@ -54,15 +54,15 @@ The following is a list of some of Dr. Timpano's recent publications, including 
 
 *Arditte, K. A., *Shaw, A. M., & Timpano, K. R. (in press). Repetitive negative thinking: A transdiagnostic correlate of affective disorders. _Journal of Social and Clinical Psychology_.
 
-* Shaw, A. M., & Timpano, K. R. (in press). An experimental investigation of the effect of stress on saving and acquiring behavioral tendencies: The role of distress tolerance and negative urgency. _Behavior Therapy_.
+*Shaw, A. M., & Timpano, K. R. (in press). An experimental investigation of the effect of stress on saving and acquiring behavioral tendencies: The role of distress tolerance and negative urgency. _Behavior Therapy_.
 
-* Arditte, K. A., * Cek, D., * Shaw, A. M.& Timpano, K. R. (in press). The importance of assessing clinical phenomena in Mechanical Turk research. _Psychological Assessment_.
+*Arditte, K. A., *Cek, D., * Shaw, A. M.& Timpano, K. R. (in press). The importance of assessing clinical phenomena in Mechanical Turk research. _Psychological Assessment_.
 
-* Shaw, A. M., Timpano, K. R., Steketee, G. S., Tolin, D. F., & Frost, R. O. (2015). Hoarding and emotional reactivity: The link between negative emotional reactions and hoarding symptomatology. _Journal of Psychiatric Research_, 63, 84-90.
+*Shaw, A. M., Timpano, K. R., Steketee, G. S., Tolin, D. F., & Frost, R. O. (2015). Hoarding and emotional reactivity: The link between negative emotional reactions and hoarding symptomatology. _Journal of Psychiatric Research_, 63, 84-90.
 
-Timpano, K. R., * Shaw, A. M., Cougle, J. R., & Fitch, K. E. (2014). A multi-faceted assessment of emotional tolerance and intensity in hoarding. _Behavior Therapy, 45, 690-699_.
+Timpano, K. R., *Shaw, A. M., Cougle, J. R., & Fitch, K. E. (2014). A multi-faceted assessment of emotional tolerance and intensity in hoarding. _Behavior Therapy, 45, 690-699_.
 
-Timpano, K. R., & * Shaw, A. M. (2012). Conferring humanness: The role of anthropomorphism in hoarding. _Personality and Individual Differences_, 54(3), 383-388.
+Timpano, K. R., & *Shaw, A. M. (2012). Conferring humanness: The role of anthropomorphism in hoarding. _Personality and Individual Differences_, 54(3), 383-388.
 
 Timpano, K.R., Broman-Fulks, J.J., Glaesmer, H., Exner, C., Rief, W., Olatunji, B.O., Keough, M.E., Riccardi, C.J., Brähler, E., Wilhelm, S. & Schmidt, N.B. (2013). A Taxometric Exploration of the Latent Structure of Hoarding. _Psychological Assessment_.
 
