@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Kiara Timpano
+title: Dr. Kiara 
 
 # Username (this should match the folder name)
 authors:
